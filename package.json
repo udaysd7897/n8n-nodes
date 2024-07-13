@@ -1,19 +1,19 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-uday",
   "version": "0.1.0",
-  "description": "",
+  "description": "Test custom nodes",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Uday",
+    "email": "udaysd7897@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/udaysd7897/n8n-nodes.git"
   },
   "engines": {
     "node": ">=18.10",
