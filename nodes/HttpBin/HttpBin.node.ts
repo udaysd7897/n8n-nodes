@@ -22,7 +22,8 @@ export class HttpBin implements INodeType {
 			},
 		],
 		requestDefaults: {
-			baseURL: 'https://httpbin.org',
+			// baseURL: 'https://httpbin.org',
+			baseURL: 'http://127.0.0.1:8000',
 			url: '',
 			headers: {
 				Accept: 'application/json',
