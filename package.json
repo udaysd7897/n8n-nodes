@@ -1,28 +1,28 @@
 {
-  "name": "n8n-nodes-uday",
+  "name": "n8n-nodes-starter",
   "version": "0.1.0",
-  "description": "Test custom nodes",
+  "description": "",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "Uday",
-    "email": "udaysd7897@gmail.com"
+    "name": "",
+    "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/udaysd7897/n8n-nodes.git"
+    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
   },
   "engines": {
     "node": ">=18.10",
     "pnpm": ">=9.1"
   },
-  "packageManager": "pnpm@9.1.4",
+
   "main": "index.js",
   "scripts": {
-    "_comment": "npx only-allow pnpm",
+
     "build": "tsc && gulp build:icons",
     "dev": "tsc --watch",
     "format": "prettier nodes credentials --write",
@@ -37,11 +37,17 @@
     "n8nNodesApiVersion": 1,
     "credentials": [
       "dist/credentials/ExampleCredentialsApi.credentials.js",
-      "dist/credentials/HttpBinApi.credentials.js"
+      "dist/credentials/HttpBinApi.credentials.js",
+      "dist/credentials/EClinicalWorksApi.credentials.js",
+      "dist/credentials/WaystarApi.credentials.js",
+      "dist/credentials/CallInsuranceApi.credentials.js"
     ],
     "nodes": [
       "dist/nodes/ExampleNode/ExampleNode.node.js",
-      "dist/nodes/HttpBin/HttpBin.node.js"
+      "dist/nodes/HttpBin/HttpBin.node.js",
+      "dist/nodes/EClinicalWorks/EClinicalWorks.node.js",
+      "dist/nodes/Waystar/Waystar.node.js",
+      "dist/nodes/CallInsurance/CallInsurance.node.js"
     ]
   },
   "devDependencies": {
