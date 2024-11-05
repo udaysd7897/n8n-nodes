@@ -1,0 +1,35 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1552 1554" width="1552" height="1554">
+	<title>Waystar_RevCapture-pdf-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1275.62,2099.452,-970.758,-589.829,1062.893,-608.09)">
+			<stop offset="0" stop-color="#ff902b"/>
+			<stop offset="1" stop-color="#ff472d"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1275.62,2099.452,-4500.636,-2734.57,1586.387,-289.664)">
+			<stop offset="0" stop-color="#ff902b"/>
+			<stop offset="1" stop-color="#ff472d"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1275.62,2099.452,-4539.4,-2758.123,1349.625,-433.677)">
+			<stop offset="0" stop-color="#ff902b"/>
+			<stop offset="1" stop-color="#ff472d"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1275.62,2099.452,-972.373,-590.811,1873.149,-115.221)">
+			<stop offset="0" stop-color="#ff902b"/>
+			<stop offset="1" stop-color="#ff472d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Clip-Path: Page 2" clip-path="url(#cp1)">
+		<g id="Page 2">
+			<path id="Path 43" class="s0" d="m694.4 6l-687.4 688.2c-15 12-3 35.9 14.9 29.9l573.8-125.6 128.5-574.5c3-15-5.9-24-17.9-24q-6 0-11.9 6z"/>
+			<path id="Path 44" class="s1" d="m828.9 24l125.5 574.5 573.8 125.6c17.9 6 29.9-17.9 17.9-29.9l-687.4-688.2q-5.9-6-11.9-6c-12 0-20.9 9-17.9 24z"/>
+			<path id="Path 45" class="s2" d="m7 858.8l687.4 688.2c11.9 14.9 32.8 3 29.8-15l-128.5-574.5-573.8-128.6q0 0-3 0c-14.9 0-23.9 17.9-11.9 29.9z"/>
+			<path id="Path 46" class="s3" d="m1528.2 828.9l-573.8 128.6-125.5 574.5c-6 18 17.9 29.9 29.8 15l687.4-688.2c12-12 3-29.9-11.9-29.9q-3 0-6 0z"/>
+		</g>
+	</g>
+</svg>
